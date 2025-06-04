@@ -1,9 +1,11 @@
 # CursoCSharp ✨
 
-![GitHub repo size](https://img.shields.io/github/repo-size/kacyos/CursoCSharp)
-![GitHub last commit](https://img.shields.io/github/last-commit/kacyos/CursoCSharp)
-![GitHub license](https://img.shields.io/github/license/kacyos/CursoCSharp)
+![GitHub repo size](https://img.shields.io/github/repo-size/kacyos/Curso_CSharp)
+![GitHub last commit](https://img.shields.io/github/last-commit/kacyos/Curso_CSharp)
 [![.NET Version](https://img.shields.io/badge/.NET-6.0%2B-blueviolet)](https://dotnet.microsoft.com/download)
+
+![GitHub language count](https://img.shields.io/github/languages/count/kacyos/Curso_CSharp)
+![GitHub top language](https://img.shields.io/github/languages/top/kacyos/Curso_CSharp)
 
 Bem-vindo ao repositório **CursoCSharp**! 👋
 Este projeto é um laboratório prático desenvolvido durante o curso [C# Curso Completo: Do Básico ao Avançado!](https://www.udemy.com/course/curso-c-sharp/), contendo uma coleção de exemplos de código em C#. Foi criado para explorar e consolidar o aprendizado da linguagem, abrangendo desde conceitos básicos até tópicos avançados como Orientação a Objetos e Coleções. Este repositório funciona como um guia interativo para diversos aspectos do C#.     
