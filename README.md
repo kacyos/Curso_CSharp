@@ -88,10 +88,10 @@ Este é um laboratório prático completo de C#, desenvolvido durante o curso [C
 ## 🤝 Como Contribuir
 1. Faça um Fork do projeto
 2. Crie uma Branch para sua Feature (```git checkout -b feature_nomeDaAlteracao```)
-Adicione os arquivos que você mudou (```git add .```)	
-Faça commit das suas mudanças (```git commit -m 'Descrição da alteração realizada'```)	
-Faça push para a Branch (```git push origin feature_nomeDaAlteracao```)
-Abra um Pull Request
+3. Adicione os arquivos que você mudou (```git add .```)	
+4. Faça commit das suas mudanças (```git commit -m 'Descrição da alteração realizada'```)	
+5. Faça push para a Branch (```git push origin feature_nomeDaAlteracao```)
+6. Abra um Pull Request
 
 ## 📝 Licença
 
