@@ -14,13 +14,13 @@ Este projeto é um laboratório prático desenvolvido durante o curso [C# Curso 
 O código está organizado de forma modular, com cada pasta focando em uma área específica do C#. Cada exemplo é geralmente contido em uma classe com um método `Executar()` estático, tornando-o fácil de rodar individualmente através do menu principal.
 
 Aqui está um panorama do que você encontrará:
-
 *   📁 **Fundamentos:** Tipos de dados, variáveis, constantes, operadores, comentários e mais.
 *   📁 **EstruturaDeControle:** Dominando o fluxo do programa com `if`, `else`, `switch`, loops (`while`, `for`, `foreach`), `break` e `continue`.
 *   📁 **ClassesEMetodos:** A base da programação orientada a objetos em C#. Membros, construtores, métodos (com retorno, estáticos, `params`), atributos, `get`/`set`, `props`, `readonly`, `enum`, `struct`, valor vs referência, parâmetros por referência e padrão.
 *   📁 **Colecoes:** Trabalhando com conjuntos de dados usando `Array`, `List`, `Set`, `Queue`, `Dictionary`, e entendendo a igualdade de objetos.
 *   📁 **OO:** Explorando os pilares da Orientação a Objetos: Encapsulamento, Herança, Polimorfismo e Abstração (demonstrado com exemplos práticos).
-*   *(Adicione outros tópicos/pastas aqui conforme seu projeto cresce!)*
+*   📁 **MetodosEFuncoes:** Aprofundando em delegates, expressões lambda, eventos e LINQ.
+*   📁 **Excecoes:** Tratamento de erros com try/catch, throw e finally.
 
 ## ▶️ Como Executar os Exemplos
 
@@ -29,10 +29,9 @@ Aqui está um panorama do que você encontrará:
 1.  **Clone o Repositório:**
     Abra seu terminal e execute:
     ```bash
-    git clone https://github.com/SeuUsuario/CursoCSharp.git
+    git clone https://github.com/kacyos/CursoCSharp.git
     ```
-    *(Lembre-se de substituir `https://github.com/SeuUsuario/CursoCSharp.git` pelo URL real do seu repositório!)*
-
+   
 2.  **Navegue até a Pasta do Projeto:**
     ```bash
     cd CursoCSharp
