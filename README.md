@@ -21,58 +21,101 @@ Este é um laboratório prático completo de C#, desenvolvido durante o curso [C
 ## 📚 Conteúdo do Curso
 
 ### 🔹 Fundamentos
-- Tipos de dados primitivos
+
+- Tipos de dados primitivos (int, float, double, decimal, char, string)
 - Variáveis e Constantes
-- Operadores aritméticos e lógicos
+- Operadores aritméticos, relacionais e lógicos
+- Conversões de tipos
 - Interpolação de strings
 - Formatação de dados
-- Console e entrada/saída
+- Comentários em código
+- Entrada e saída de dados no console
 
 ### 🔹 Estruturas de Controle
+
 - Condicionais (if, else, switch)
-- Loops (while, do-while, for, foreach)
-- Break e Continue
+- Estruturas de repetição (for, foreach, while, do-while)
+- Operadores de comparação
 - Estruturas de decisão aninhadas
 
+### 🔹 Classes e Métodos
+
+- Definição de classes e objetos
+- Construtores
+- Métodos com e sem retorno
+- Métodos de extensão
+- Propriedades (Properties)
+- Atributos estáticos
+- Modificadores readonly
+- Structs
+
 ### 🔹 Orientação a Objetos
-- Classes e Objetos
-- Herança e Polimorfismo
+
+- Herança
+- Polimorfismo
 - Encapsulamento
-- Interfaces e Classes Abstratas
-- Modificadores de acesso
-- Properties e Auto-properties
+- Construtores com this
+- Classes abstratas
+- Interfaces
+- Modificadores de acesso (public, private, protected, internal)
+- Classes sealed
 
 ### 🔹 Coleções
-- Arrays e Listas
-- HashSet e Dictionary
-- Queue e Stack
-- LINQ básico e avançado
-- Manipulação de coleções
 
-### 🔹 Recursos Avançados
-- Tratamento de Exceções
-- Delegates e Events
-- Expressões Lambda
-- Métodos de Extensão
+- Arrays
+- Listas (List<T>)
+- Dicionários (Dictionary<TKey, TValue>)
+- HashSet
+- Queue
+- Stack
+- Operações com coleções (adicionar, remover, buscar)
+- LINQ básico
+- Comparação e igualdade de objetos
+
+### 🔹 Métodos e Funções Avançadas
+
+- Delegates
+- Funções Lambda
+- Delegates como parâmetros
+- Funções anônimas
+- Métodos de extensão
+
+### 🔹 Tratamento de Exceções
+
+- Exceções básicas
+- Exceções personalizadas
+- Blocos try-catch-finally
+- Tratamento e propagação de erros
+
+### 🔹 APIs e Recursos do .NET
+
+- Manipulação de DateTime
+- Trabalhando com diretórios e arquivos
+- Nullable types
+
+### 🔹 Tópicos Avançados
+
 - Generics
-- Async/Await
+- Expressões Lambda avançadas
 
 ## 💻 Como Executar
 
 1. **Clone o Repositório**
-    ```bash
-    git clone https://github.com/kacyos/Curso_CSharp.git
-    ```
+
+   ```bash
+   git clone https://github.com/kacyos/Curso_CSharp.git
+   ```
 
 2. **Entre na Pasta**
-    ```bash
-    cd Curso_CSharp
-    ```
+
+   ```bash
+   cd Curso_CSharp
+   ```
 
 3. **Execute o Projeto**
-    ```bash
-    dotnet run
-    ```
+   ```bash
+   dotnet run
+   ```
 
 ## 🎯 Menu Interativo
 
@@ -84,14 +127,6 @@ Este é um laboratório prático completo de C#, desenvolvido durante o curso [C
 
 - [.NET SDK 6.0](https://dotnet.microsoft.com/download) ou superior
 - Editor de código (recomendado: [Visual Studio Code](https://code.visualstudio.com/) com extensão C#)
-
-## 🤝 Como Contribuir
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua Feature (```git checkout -b feature_nomeDaAlteracao```)
-3. Adicione os arquivos que você mudou (```git add .```)	
-4. Faça commit das suas mudanças (```git commit -m 'Descrição da alteração realizada'```)	
-5. Faça push para a Branch (```git push origin feature_nomeDaAlteracao```)
-6. Abra um Pull Request
 
 ## 📝 Licença
 
